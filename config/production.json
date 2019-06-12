@@ -1,2 +1,4 @@
-"jwtPrivateKey": "",
-"db": "mongodb://localhost/videofy"
+{
+    "jwtPrivateKey": "",
+    "db": "mongodb://localhost/videofy"
+}

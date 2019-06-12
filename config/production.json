@@ -1,4 +1,4 @@
 {
     "jwtPrivateKey": "videofy_jwtPrivateKey",
-    "db": "videofy_db"
+    "db": "mongodb+srv://joswal:0806joswal@cluster0-hjbe7.mongodb.net/test?retryWrites=true"
 }

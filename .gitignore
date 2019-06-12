@@ -3,3 +3,5 @@ coverage/
 config/
 logfile.log
 uncaughtExceptions.log
+package-lock.json
+

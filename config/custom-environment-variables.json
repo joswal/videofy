@@ -1,3 +1,4 @@
 {
-  "jwtPrivateKey": "videofy_jwtPrivateKey"
+  "jwtPrivateKey": "videofy_jwtPrivateKey",
+    "db": "videofy_db"
 }
